@@ -1,0 +1,12 @@
+Here's how to use console commands:
+ 
+Enable Admin Commands: This depends on your platform. Generally, you'll need to enable admin rights during server creation or use a single-player mode with admin enabled.
+ 
+Open the Console: Press the tilde key (~) by default. This brings up the console window.
+ 
+Enter Commands: Type the desired console command and press Enter. Here are some examples:
+ 
+god: Enables god mode (invulnerability)
+fly: Enables flying
+giveitem [item name] [quantity]: Gives you a specific item
+addexperience [amount]: Adds experience points to your character
